@@ -33,7 +33,7 @@ The main objectives of this project are to:
 - **Google Colab** – Python-based analysis and visualization
 - **Pandas** – Data cleaning, transformation, merging and analysis
 - **Matplotlib** – Data visualization
-- **Excel/CSV** – Source datasets
+- **CSV** – Source datasets
 
 ---
 
